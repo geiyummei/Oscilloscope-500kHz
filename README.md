@@ -8,6 +8,6 @@ The board has a built-in USB 2.0 type-c connection, which allows programming and
 While not intended to compete with professional test equipment, this project serves as a practical platform for exploring embedded systems, mixed-signal circuit design, and PCB development.
 
 This repository contains:
-> PCB design files including the schematic and Gerber files
-> MCU firmware
-> Python-based GUI
+- PCB design files including the schematic and Gerber files
+- MCU firmware
+- Python-based GUI
