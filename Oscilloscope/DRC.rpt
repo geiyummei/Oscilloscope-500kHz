@@ -1,0 +1,386 @@
+** Drc report for Oscilloscope.kicad_pcb **
+** Created on 2026-07-20T11:46:55-0400 **
+
+** Found 104 DRC violations **
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(146.6425 mm, 72.9000 mm): Pad 1 [GND] of C7 on F.Cu
+    @(147.4575 mm, 72.9000 mm): Pad 2 [Net-(U1-OUT-)] of C7 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(133.8450 mm, 81.1000 mm): Pad 1 [/Signal processing/2IN+] of R18 on F.Cu
+    @(133.2050 mm, 81.1000 mm): Pad 2 [+3.3VA] of R18 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(158.6425 mm, 72.2500 mm): Pad 1 [+5V] of C1 on F.Cu
+    @(159.4575 mm, 72.2500 mm): Pad 2 [GND] of C1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(122.2850 mm, 87.7000 mm): Pad 1 [/Signal processing/1IN+] of R11 on F.Cu
+    @(122.9250 mm, 87.7000 mm): Pad 2 [+3.3VA] of R11 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(127.7000 mm, 73.9700 mm): Pad 1 [GND] of C24 on F.Cu
+    @(127.7000 mm, 73.3300 mm): Pad 2 [ADC1_IN1] of C24 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(157.1500 mm, 107.1200 mm): Pad 1 [SIG1] of C25 on F.Cu
+    @(157.1500 mm, 106.4800 mm): Pad 2 [Net-(J8-Pin_2)] of C25 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(128.0300 mm, 93.2000 mm): Pad 1 [GND] of R16 on F.Cu
+    @(128.6700 mm, 93.2000 mm): Pad 2 [/Signal processing/ATTENUATED_0] of R16 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(154.1700 mm, 63.7000 mm): Pad 1 [+5V] of R1 on F.Cu
+    @(153.5300 mm, 63.7000 mm): Pad 2 [Net-(D1-Pad1)] of R1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(137.3800 mm, 74.8500 mm): Pad 1 [GND] of R10 on F.Cu
+    @(138.0200 mm, 74.8500 mm): Pad 2 [/BOOT1] of R10 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(132.4800 mm, 60.4000 mm): Pad 1 [+3V3] of C17 on F.Cu
+    @(133.1200 mm, 60.4000 mm): Pad 2 [GND] of C17 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(125.4800 mm, 87.7000 mm): Pad 1 [/Signal processing/1IN+] of D4 on F.Cu
+    @(126.1200 mm, 87.7000 mm): Pad 2 [GND] of D4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(147.4575 mm, 71.0500 mm): Pad 1 [Net-(U1-OUT-)] of L2 on F.Cu
+    @(146.6425 mm, 71.0500 mm): Pad 2 [-3V3A] of L2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(132.2300 mm, 93.2000 mm): Pad 1 [Net-(R12-Pad1)] of R12 on F.Cu
+    @(132.8700 mm, 93.2000 mm): Pad 2 [/Signal processing/ATTENUATED_0] of R12 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(160.9300 mm, 67.3500 mm): Pad 1 [Net-(J1-CC1)] of R3 on F.Cu
+    @(160.2900 mm, 67.3500 mm): Pad 2 [GND] of R3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(160.3700 mm, 93.2000 mm): Pad 1 [Net-(R21-Pad1)] of R21 on F.Cu
+    @(159.7300 mm, 93.2000 mm): Pad 2 [/Signal processing/ATTENUATED_1] of R21 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(150.7575 mm, 77.1500 mm): Pad 1 [Net-(U1-C+)] of C8 on F.Cu
+    @(149.9425 mm, 77.1500 mm): Pad 2 [Net-(U1-C-)] of C8 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(150.5425 mm, 70.2500 mm): Pad 1 [Net-(U1-CP)] of C9 on F.Cu
+    @(151.3575 mm, 70.2500 mm): Pad 2 [GND] of C9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(122.9200 mm, 88.6500 mm): Pad 1 [+3.3VA] of D3 on F.Cu
+    @(122.2800 mm, 88.6500 mm): Pad 2 [/Signal processing/1IN+] of D3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(135.4800 mm, 93.2000 mm): Pad 1 [Net-(R15-Pad1)] of R15 on F.Cu
+    @(136.1200 mm, 93.2000 mm): Pad 2 [/Signal processing/ATTENUATED_0] of R15 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(165.1800 mm, 81.6500 mm): Pad 1 [+3V3] of R8 on F.Cu
+    @(165.8200 mm, 81.6500 mm): Pad 2 [Net-(D2-A)] of R8 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(141.3800 mm, 59.1000 mm): Pad 1 [GND] of R9 on F.Cu
+    @(142.0200 mm, 59.1000 mm): Pad 2 [/BOOT0] of R9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(127.2500 mm, 68.8975 mm): Pad 1 [+3V3] of L3 on F.Cu
+    @(127.2500 mm, 69.7125 mm): Pad 2 [/VDDA] of L3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(151.9925 mm, 78.2500 mm): Pad 1 [Net-(U1-OUT+)] of C4 on F.Cu
+    @(152.8075 mm, 78.2500 mm): Pad 2 [GND] of C4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(156.4075 mm, 81.6500 mm): Pad 1 [+3V3] of C10 on F.Cu
+    @(155.5925 mm, 81.6500 mm): Pad 2 [GND] of C10 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(151.9925 mm, 79.3000 mm): Pad 1 [Net-(U1-OUT+)] of C5 on F.Cu
+    @(152.8075 mm, 79.3000 mm): Pad 2 [GND] of C5 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(133.6200 mm, 74.8000 mm): Pad 1 [+3V3] of C13 on F.Cu
+    @(132.9800 mm, 74.8000 mm): Pad 2 [GND] of C13 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(138.0200 mm, 75.9500 mm): Pad 1 [Net-(U3-VCAP1)] of C19 on F.Cu
+    @(137.3800 mm, 75.9500 mm): Pad 2 [GND] of C19 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(153.2800 mm, 93.2000 mm): Pad 1 [GND] of R22 on F.Cu
+    @(153.9200 mm, 93.2000 mm): Pad 2 [/Signal processing/ATTENUATED_1] of R22 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(133.2050 mm, 80.2000 mm): Pad 1 [+3.3VA] of D5 on F.Cu
+    @(133.8450 mm, 80.2000 mm): Pad 2 [/Signal processing/2IN+] of D5 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(150.5425 mm, 71.6000 mm): Pad 1 [+5V] of C3 on F.Cu
+    @(151.3575 mm, 71.6000 mm): Pad 2 [GND] of C3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(158.6425 mm, 73.3500 mm): Pad 1 [+5V] of C2 on F.Cu
+    @(159.4575 mm, 73.3500 mm): Pad 2 [GND] of C2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(157.1700 mm, 93.2000 mm): Pad 1 [Net-(R19-Pad1)] of R19 on F.Cu
+    @(156.5300 mm, 93.2000 mm): Pad 2 [/Signal processing/ATTENUATED_1] of R19 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(129.5750 mm, 107.1450 mm): Pad 1 [SIG0] of C22 on F.Cu
+    @(129.5750 mm, 106.5050 mm): Pad 2 [Net-(J7-Pin_2)] of C22 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(126.1200 mm, 88.6000 mm): Pad 1 [/Signal processing/OUT1-0] of R13 on F.Cu
+    @(125.4800 mm, 88.6000 mm): Pad 2 [/Signal processing/1IN+] of R13 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(140.3700 mm, 74.8000 mm): Pad 1 [+3V3] of C16 on F.Cu
+    @(139.7300 mm, 74.8000 mm): Pad 2 [GND] of C16 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(127.5500 mm, 61.4200 mm): Pad 1 [Net-(S1-B)] of C18 on F.Cu
+    @(127.5500 mm, 60.7800 mm): Pad 2 [GND] of C18 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(151.8750 mm, 77.1500 mm): Pad 1 [Net-(U1-OUT+)] of R4 on F.Cu
+    @(152.5150 mm, 77.1500 mm): Pad 2 [Net-(U1-FB+)] of R4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(120.1200 mm, 72.7500 mm): Pad 1 [GND] of C23 on F.Cu
+    @(119.4800 mm, 72.7500 mm): Pad 2 [ADC1_IN0] of C23 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(150.7575 mm, 79.3000 mm): Pad 1 [Net-(U1-OUT+)] of L1 on F.Cu
+    @(149.9425 mm, 79.3000 mm): Pad 2 [+3.3VA] of L1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(146.6000 mm, 74.4700 mm): Pad 1 [Net-(U1-FB-)] of R6 on F.Cu
+    @(146.6000 mm, 73.8300 mm): Pad 2 [GND] of R6 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(147.4500 mm, 74.4700 mm): Pad 1 [Net-(U1-FB-)] of R7 on F.Cu
+    @(147.4500 mm, 73.8300 mm): Pad 2 [Net-(U1-OUT-)] of R7 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(129.1000 mm, 69.7250 mm): Pad 1 [/VDDA] of C12 on F.Cu
+    @(129.1000 mm, 69.0850 mm): Pad 2 [GND] of C12 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(128.2000 mm, 69.7250 mm): Pad 1 [/VDDA] of C11 on F.Cu
+    @(128.2000 mm, 69.0850 mm): Pad 2 [GND] of C11 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(120.1200 mm, 73.9500 mm): Pad 1 [/Signal processing/OUT1-1] of R14 on F.Cu
+    @(119.4800 mm, 73.9500 mm): Pad 2 [ADC1_IN0] of R14 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(143.5500 mm, 63.4800 mm): Pad 1 [+3V3] of C14 on F.Cu
+    @(143.5500 mm, 64.1200 mm): Pad 2 [GND] of C14 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(151.8800 mm, 76.0500 mm): Pad 1 [Net-(U1-FB+)] of R5 on F.Cu
+    @(152.5200 mm, 76.0500 mm): Pad 2 [GND] of R5 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(146.6425 mm, 71.9500 mm): Pad 1 [GND] of C6 on F.Cu
+    @(147.4575 mm, 71.9500 mm): Pad 2 [Net-(U1-OUT-)] of C6 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(165.1800 mm, 80.5500 mm): Pad 1 [GND] of D2 on F.Cu
+    @(165.8200 mm, 80.5500 mm): Pad 2 [Net-(D2-A)] of D2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(160.9300 mm, 64.3500 mm): Pad 1 [Net-(J1-CC2)] of R2 on F.Cu
+    @(160.2900 mm, 64.3500 mm): Pad 2 [GND] of R2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(136.1550 mm, 80.1500 mm): Pad 1 [/Signal processing/2IN+] of D6 on F.Cu
+    @(136.7950 mm, 80.1500 mm): Pad 2 [GND] of D6 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(126.7000 mm, 73.9700 mm): Pad 1 [/Signal processing/OUT2-1] of R17 on F.Cu
+    @(126.7000 mm, 73.3300 mm): Pad 2 [ADC1_IN1] of R17 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(136.7950 mm, 81.1000 mm): Pad 1 [/Signal processing/OUT2-0] of R20 on F.Cu
+    @(136.1550 mm, 81.1000 mm): Pad 2 [/Signal processing/2IN+] of R20 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(133.6200 mm, 76.3000 mm): Pad 1 [+3V3] of C15 on F.Cu
+    @(132.9800 mm, 76.3000 mm): Pad 2 [GND] of C15 on F.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(145.9000 mm, 72.9000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(153.4000 mm, 76.0500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(118.5000 mm, 68.7500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(152.1500 mm, 93.2000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(154.5500 mm, 81.7000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(145.8900 mm, 73.8000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(136.6000 mm, 74.8500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(137.5250 mm, 80.1500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(127.0500 mm, 58.9000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(128.6000 mm, 73.9500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(140.5500 mm, 59.1000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(162.9500 mm, 85.0500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(139.5500 mm, 71.8500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(151.3500 mm, 69.5500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(136.5846 mm, 75.5654 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(118.4500 mm, 65.5500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(148.2000 mm, 74.1000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(159.5000 mm, 64.3500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(133.0500 mm, 71.9000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(153.7000 mm, 79.3000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(145.9000 mm, 71.9500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(129.0500 mm, 87.7000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(127.5500 mm, 60.1000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(128.3500 mm, 92.1000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(119.6500 mm, 61.5500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(121.1500 mm, 72.7500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(132.3000 mm, 69.3500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(132.7500 mm, 59.7000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(159.5000 mm, 67.3500 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(144.3000 mm, 64.1000 mm): Via [GND] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(146.0000 mm, 59.9500 mm): Via [+3V3] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(127.5000 mm, 75.3000 mm): Via [+3V3] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(125.6000 mm, 75.3000 mm): Via [+3V3] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(146.0000 mm, 61.2500 mm): Via [+3V3] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(152.1000 mm, 74.9000 mm): Via [+5V] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(153.4500 mm, 74.9000 mm): Via [+5V] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(130.8000 mm, 84.3500 mm): Via [+3.3VA] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(132.5500 mm, 85.0500 mm): Via [+3.3VA] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(144.4500 mm, 83.2000 mm): Via [+3.3VA] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(141.8000 mm, 84.2000 mm): Via [+3.3VA] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(149.0500 mm, 78.5500 mm): Via [+3.3VA] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(137.6732 mm, 84.2500 mm): Via [+3.3VA] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(144.0500 mm, 74.7500 mm): Via [-3V3A] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(141.0000 mm, 79.9000 mm): Via [-3V3A] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(142.0500 mm, 59.9500 mm): Via [/BOOT0] on F.Cu - B.Cu
+[via_diameter]: Via diameter (board setup constraints min diameter 0.7000 mm; actual 0.6000 mm)
+    Rule: netclass 'Default'; error
+    @(142.0500 mm, 61.2500 mm): Via [/BOOT0] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(161.3000 mm, 70.5000 mm): Via [GND] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(165.6000 mm, 70.4500 mm): Via [GND] on F.Cu - B.Cu
+[hole_to_hole]: Drilled hole too close to other hole (board setup constraints min 0.4495 mm; actual 0.4155 mm)
+    Rule: board setup constraints; warning
+    @(136.6000 mm, 74.8500 mm): Via [GND] on F.Cu - B.Cu
+    @(136.5846 mm, 75.5654 mm): Via [GND] on F.Cu - B.Cu
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(130.2922 mm, 90.8100 mm): Footprint text of U5 (*)
+    @(130.2922 mm, 90.8100 mm): Footprint text of U5 (*)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(120.0000 mm, 76.3522 mm): Footprint text of U4 (*)
+    @(120.0000 mm, 76.3522 mm): Footprint text of U4 (*)
+
+** Found 2 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(128.9415 mm, 63.8500 mm): Track [+3V3] on F.Cu, length 1.6835 mm
+    @(132.5500 mm, 61.9250 mm): Track [+3V3] on F.Cu, length 1.0750 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(137.3250 mm, 54.6000 mm): Track [+3V3] on F.Cu, length 3.1113 mm
+    @(146.0000 mm, 59.9500 mm): Track [+3V3] on F.Cu, length 0.2100 mm
+
+** Found 0 Footprint errors **
+
+** End of Report **
